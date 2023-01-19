@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Задание.md",
+                "file": "2. Задание.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Задание.md",
+                "file": "2. Задание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Задание.md",
+                "file": "2. Задание.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Задание.md"
+                "file": "2. Задание.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "397eaf9d0f41633d",
+  "active": "6a95b8c0a42d17e9",
   "lastOpenFiles": [
-    "2. Задание.md",
-    "3. Задание.md",
     "4. Задание.md",
-    "1. Задание.md",
     "Zlouškovy test 2.md",
+    "3. Задание.md",
+    "2. Задание.md",
+    "1. Задание.md",
     "2023-01-19.md",
     "Без названия.canvas",
     "Прошлые задачи/4. Задача о  сменах.md",
